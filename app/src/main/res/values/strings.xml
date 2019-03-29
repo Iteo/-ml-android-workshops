@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ML Workshops</string>
+    <string name="text_recognition_button">Text recognition</string>
+    <string name="face_recognition_button">Face recognition</string>
+    <string name="custom_model_recognition">Custom model recognition</string>
+    <string name="clear">Clear</string>
+</resources>
